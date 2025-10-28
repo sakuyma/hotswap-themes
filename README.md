@@ -7,7 +7,7 @@
 
 </br>
 
-## 💻 Dependecies
+## 💻 Dependencies
 * **Rofi**
 * **gsettings**
 * **nwg-look**
