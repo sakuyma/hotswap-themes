@@ -11,6 +11,7 @@
 * **Rofi**
 * **gsettings**
 * **nwg-look**
+* **swww**
 <img src="demo/2.png">
 
 <img src="demo/3.png">
