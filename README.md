@@ -9,3 +9,5 @@
 
 ## 💻 Dependecies
 * **Rofi**
+* **gsettings*
+* **nwg-look**
